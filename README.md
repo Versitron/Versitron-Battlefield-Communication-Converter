@@ -28,19 +28,19 @@ This **fiber media converter** is ideal for:
 
 ---
 
-## Technical Specifications
+## VERSITRON Battlefield Communication Converter – Technical Specifications
 
-| Specification | Description |
-|---------------|-------------|
-| Model | VERSITRON Battlefield Communication Converter |
-| Fiber Type | Multimode to Singlemode |
-| Connectors | ST to SC fiber converter |
-| Wavelength | 1300nm |
-| Distance Support | Up to 20km |
-| Speed | 10/100/1000Base-TX to 100/1000Base-FX |
-| Duplex Mode | Full-duplex / Half-duplex |
-| Power | External 5VDC |
-| Operating Temp | -10°C to 60°C |
+| Specification       | Description |
+|-------------------|-------------|
+| Model             | VERSITRON Battlefield Communication Converter |
+| Fiber Type        | Multimode to Singlemode |
+| Connectors        | ST to SC fiber connector |
+| Wavelength        | 1300nm |
+| Distance Support  | Up to 20km over singlemode fiber |
+| Speed             | 10/100/1000Base-TX to 100/1000Base-FX |
+| Duplex Mode       | Full-duplex / Half-duplex |
+| Power             | External 5VDC |
+| Operating Temp    | -10°C to 60°C |
 
 ---
 
